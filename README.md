@@ -29,4 +29,4 @@ Este proyecto es una aplicación web completa para una agencia de viajes, desarr
 
 1. Clona este repositorio:
 ```bash
-git clone[ https://github.com/tu-usuario/agencia-viajes.git](https://github.com/Fercisto/agencia-viajes)
+git clone https://github.com/Fercisto/agencia-viajes
